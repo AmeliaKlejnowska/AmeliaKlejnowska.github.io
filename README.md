@@ -26,8 +26,6 @@
     </head>
     <body>
 
-<!--Witam wszystkich. Cieszę się, że dziele się moją wiedzą z innymi.--!>
-
     <h1 id="wszystko">Wszystko o żółwiu błotnym!</h1>
     
     <p><a target="_blank" herf="https://pl.wikipedia.org/wiki/Żółw_błotny"> <br>
@@ -35,8 +33,6 @@
     Jeśli interesuje cię skąd mam daną wiedzę to kliknij na obrazek żółwia.</p> 
     
     <h2>Podstwaowe informacje</h2>
-    
-    <!--Znajdziecie tu wiele ciekawych informacji--!>
     
     <p>Żółw błotny (<em>Emys orbicularis</em>) to gatunek żółwi z rodziny żółwi błotnych z podrzędu żółwi skrytoszyjnych. Jedyny gatunek <br>
     żółwia <strong>żyjący naturalnie</strong> w Polsce. W środowisku naturalnym <strong>żyje powyżej 100 lat</strong>.</p>
@@ -108,6 +104,6 @@
         <li>północno-zachodnia Afryka</li>
     </ul>
 
-<a herf="#wszystko">Powrót do początku.</a>
+<a herf="wszystko">Powrót do początku.</a>
     </body>
 </html>
