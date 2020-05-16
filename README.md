@@ -104,6 +104,6 @@
         <li>północno-zachodnia Afryka</li>
     </ul>
 
-<a herf="wszystko">Powrót do początku.</a>
+<p><a herf="#wszystko">Powrót do początku.</a></p>
     </body>
 </html>
